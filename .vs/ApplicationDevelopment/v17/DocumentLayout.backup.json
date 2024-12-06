@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ApplicationDevelopment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\components\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\components\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\components\\pages\\register.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\components\\pages\\register.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\components\\pages\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\components\\pages\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\components\\pages\\login.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\components\\pages\\login.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\abstraction\\userbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\abstraction\\userbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\model\\globalstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\model\\globalstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\components\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\components\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|c:\\projects\\applicationdevelopment\\applicationdevelopment\\applicationdevelopment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B469B94-38E7-4C82-8DDC-5FED30236B00}|ApplicationDevelopment\\ApplicationDevelopment.csproj|solutionrelative:applicationdevelopment\\applicationdevelopment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Services\\UserService.cs",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Services\\UserService.cs",
+              "RelativeToolTip": "ApplicationDevelopment\\Services\\UserService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:20:25.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Components\\Pages\\Register.razor",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Pages\\Register.razor",
+              "RelativeToolTip": "ApplicationDevelopment\\Components\\Pages\\Register.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T06:08:24.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "ApplicationDevelopment\\Components\\Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T04:17:18.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "ApplicationDevelopment\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T04:11:43.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\_Imports.razor",
+              "RelativeToolTip": "ApplicationDevelopment\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T04:16:24.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "ApplicationDevelopment\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T04:06:58.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor.cs",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Pages\\Home.razor.cs",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Components\\Pages\\Home.razor.cs",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Pages\\Home.razor.cs",
+              "RelativeToolTip": "ApplicationDevelopment\\Components\\Pages\\Home.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:49:46.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.razor.cs",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Pages\\Index.razor.cs",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Components\\Pages\\Index.razor.cs",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Pages\\Index.razor.cs",
+              "RelativeToolTip": "ApplicationDevelopment\\Components\\Pages\\Index.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:15:59.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Services\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Services\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Services\\Interface\\IUserService.cs",
+              "RelativeToolTip": "ApplicationDevelopment\\Services\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:35:59.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.razor.cs",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Pages\\Register.razor.cs",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Components\\Pages\\Register.razor.cs",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Pages\\Register.razor.cs",
+              "RelativeToolTip": "ApplicationDevelopment\\Components\\Pages\\Register.razor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:51:39.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.razor.cs",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Pages\\Login.razor.cs",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Components\\Pages\\Login.razor.cs",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Pages\\Login.razor.cs",
+              "RelativeToolTip": "ApplicationDevelopment\\Components\\Pages\\Login.razor.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:17:37.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserBase.cs",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Abstraction\\UserBase.cs",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Abstraction\\UserBase.cs",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Abstraction\\UserBase.cs",
+              "RelativeToolTip": "ApplicationDevelopment\\Abstraction\\UserBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:21:30.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "ApplicationDevelopment\\Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-06T06:43:27.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\MauiProgram.cs",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\MauiProgram.cs",
+              "RelativeToolTip": "ApplicationDevelopment\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:28:18.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Components\\Routes.razor",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Routes.razor",
+              "RelativeToolTip": "ApplicationDevelopment\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T04:33:38.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GlobalState.cs",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Model\\GlobalState.cs",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Model\\GlobalState.cs",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Model\\GlobalState.cs",
+              "RelativeToolTip": "ApplicationDevelopment\\Model\\GlobalState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:11:22.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Model\\Role.cs",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Model\\Role.cs",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Model\\Role.cs",
+              "RelativeToolTip": "ApplicationDevelopment\\Model\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:10:55.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Model\\User.cs",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Model\\User.cs",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Model\\User.cs",
+              "RelativeToolTip": "ApplicationDevelopment\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:10:41.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Components\\Pages\\Index.razor",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Pages\\Index.razor",
+              "RelativeToolTip": "ApplicationDevelopment\\Components\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T04:15:27.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ApplicationDevelopment\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T04:33:29.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDevelopment",
+              "DocumentMoniker": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\ApplicationDevelopment.csproj",
+              "RelativeDocumentMoniker": "ApplicationDevelopment\\ApplicationDevelopment.csproj",
+              "ToolTip": "C:\\Projects\\ApplicationDevelopment\\ApplicationDevelopment\\ApplicationDevelopment.csproj",
+              "RelativeToolTip": "ApplicationDevelopment\\ApplicationDevelopment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T04:12:42.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
